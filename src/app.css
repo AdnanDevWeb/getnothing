@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    @apply font-['poppins'] bg-main
+}
+
+@layer components {
+    .h2 {
+        @apply text-[3.125rem]/[100%] lg:text-9xl
+    }
+    .big-h-desc {
+        @apply text-desc-size/[130%] max-w-[700px] text-center md:text-desc-size-md
+    }
+    .h3 {
+        @apply text-[36px]/[100%] lg:text-[55px]/[100%]
+    }
+    .desc {
+        @apply text-[1.1rem] md:text-[1.42rem]/[120%] lg:text-[25px]/[140%]
+    }
+
+    .card {
+        @apply bg-main rounded-3xl p-6 grid gap-8
+    }
+
+    .row {
+        @apply grid grid-cols-5
+    }
+}
+
+.text {
+    @apply text-[2.8rem] md:text-[5.625rem]
+}
+
+.marquee {
+    @apply md:p-[25px]
+}

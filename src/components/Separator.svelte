@@ -1,0 +1,1 @@
+<div class="w-full border-b-[1px] bg-gray-500 opacity-40 rounded-lg" />
