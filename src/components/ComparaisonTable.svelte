@@ -21,8 +21,12 @@
                 <p>Love With Food</p>
                 <p>HelloFresh</p>
             </div>
-            <div class="highlight-gray rounded-t-3xl">
-                <p>Nothing</p>
+            <div class="highlight-gray rounded-t-3xl flex items-center">
+                <p>n</p>
+                <div class="p-[2px] border-white border-[2px] rounded-full border-solid">
+                    <div class="p-1 bg-white rounded-full"></div>
+                </div>
+                <p>thing</p>
             </div>
         </div>
         <Separator />

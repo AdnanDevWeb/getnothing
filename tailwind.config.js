@@ -15,6 +15,9 @@ export default {
       },
       width: {
         'container': '1150px'
+      },
+      maxWidth: {
+        'container': '1150px'
       }
     },
   },

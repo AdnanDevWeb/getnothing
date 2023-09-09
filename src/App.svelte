@@ -4,6 +4,7 @@
 import Hero from "./lib/Hero.svelte";
 import Nav from "./lib/Nav.svelte"
     import SecondSection from "./lib/SecondSection.svelte";
+    import Sucess from "./lib/Sucess.svelte";
 </script>
 
 <main class="bg-main px-6 py-3 md:py-9 md:px-10">
@@ -14,4 +15,5 @@ import Nav from "./lib/Nav.svelte"
 </main>
 <SecondSection/>
 <Comparaison />
-<Gift />µ
+<Gift />
+<Sucess />
