@@ -1,8 +1,10 @@
  <script lang="ts">
   import Comparaison from "./lib/Comparaison.svelte";
+    import Faq from "./lib/Faq.svelte";
     import Gift from "./lib/Gift.svelte";
 import Hero from "./lib/Hero.svelte";
 import Nav from "./lib/Nav.svelte"
+    import Quote from "./lib/Quote.svelte";
     import SecondSection from "./lib/SecondSection.svelte";
     import Sucess from "./lib/Sucess.svelte";
 </script>
@@ -17,3 +19,4 @@ import Nav from "./lib/Nav.svelte"
 <Comparaison />
 <Gift />
 <Sucess />
+<Quote />

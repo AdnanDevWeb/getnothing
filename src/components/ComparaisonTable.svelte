@@ -1,6 +1,6 @@
 <script>
     import Separator from "./Separator.svelte";
-
+    
 </script>
 <div class="max-w-[1300px] bg-red-500 rounded-[2.5rem] mx-auto mt-28 py-20 px-32">
     <div id="table">

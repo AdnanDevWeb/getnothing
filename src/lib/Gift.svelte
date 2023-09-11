@@ -3,7 +3,7 @@
     import Screenshot from "../components/Screenshot.svelte";
 
 </script>
-<section class="bg-white pt-[200px]">
+<section class="bg-white pt-[200px] overflow-hidden">
     <div class="w-container mx-auto pb-28">
         <h2 class="h2">Gift Nothing</h2>
         <p class="big-h-desc text-start pb-10 pt-2">Struggling to figure out what to give your friend, coworker, or that relative you haven’t seen in years? Consider gifting Nothing. Show how much you appreciate them, even if they need nothing.</p>
